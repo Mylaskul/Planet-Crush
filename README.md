@@ -11,5 +11,12 @@ The game mechanics are are rather simple:
  - You play as earth
  - There are planets slowly moving towards earth
  - You control a gravity beam with can capture and release planets
- 
+
+The controles are:
+
+ - left/right Arrow Key: rotate canon
+ - up Arrow Key: shoot
+ - R: restart
+ - ESCAPE: go back to main menu
+
 All graphics, music and code were done in these 48h with some brush-ups later on.
